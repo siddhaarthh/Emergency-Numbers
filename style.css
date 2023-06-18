@@ -1,0 +1,202 @@
+.navbar
+{
+   background: #104d5a;
+   padding: 20px;
+   border-radius: 10px;
+   
+} 
+
+li
+{
+    display: inline-block;
+    padding: 15px;
+    box-shadow: 10px;
+}
+
+.home
+{
+    
+    color: aliceblue;
+    border-radius: 800px;
+    width: 70px;
+    height: 70px;
+    vertical-align: middle;
+
+}
+
+.about
+{
+    font-size: x-large;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
+a:hover{
+    font-size: 40px;
+    color: blue;
+}
+
+.search_bar
+{
+    float: right;
+   
+    
+}
+
+.btn
+{
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: black;
+}
+
+.btn:hover{
+    background-color: #53bed3;
+    color: aliceblue;
+    font-size: large;
+}
+
+.searchBar
+{
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.heading
+{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.heading:hover{
+    background: #3697cb;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 10px;
+}
+
+.first_line
+{
+    display: inline-block;
+    margin-left: 20px;
+    padding: 20px;
+    
+}
+
+.btn1
+{
+    font-size: x-large;
+    margin-left: 30px;
+    padding: 10px 160px;
+    border-radius: 10px;
+    color: aliceblue;
+    background: #53bed3;
+}
+
+.btn1:hover{
+    color: aliceblue;
+    background: #24b7d4;
+    font-size: xx-large;
+}
+
+.img101
+{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.photo_heading
+{
+ text-align: center;
+ font-size: larger;
+}
+
+.photo_number
+{
+    text-align: center;
+    font-size: larger;
+}
+
+.for_all
+{
+    background-color: #156474 ;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 3px;
+}
+
+#all_click
+{
+    padding: 10px;
+    font-size: large;
+    font-weight: 800;
+    color: #53bed3;
+    border-radius: 10px;
+}
+
+#all_click:hover{
+    background: #53bed3;
+    color: aliceblue;
+    font-size: x-large;
+}
+
+#abouts{
+    padding-top: 1px;
+    padding-bottom: 30px;
+    background: #043f4b;
+    color: white;
+    width: 250px;
+    height: 170px;
+    border-radius: 10px;
+    margin-left: 150px;
+    text-align: center;
+    font-size: large;
+}
+
+.call_logo
+{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.middle_logo
+{
+    width: 20px;
+    height: 20px;
+    font-size: large;
+    vertical-align: middle;
+    display: inline-block;
+    color: aliceblue;
+}
+
+.follow
+{
+    width: 900px;
+    height: 170px;
+    padding-top: -10px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    background: #043f4b;
+    
+}
+
+.heading_follow
+{
+    text-align: center;
+    font-size: xx-large;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+
+.logo_L1
+{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
